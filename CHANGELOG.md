@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`82c2be7`](https://github.com/solgerchunoff/my-package-with-semver/commit/82c2be7dfea33bbd4ea816bbeac0b08ce3de9e88))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
